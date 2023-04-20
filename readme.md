@@ -11,6 +11,7 @@ O Proxy é um padrão de projeto estrutural que permite que você forneça um su
 
 #### 2.6.2 Exemplo abordado
 
-Como exemplo para este padrão abordei o tema de troca gasto por pontos
+Como exemplo para este padrão abordei de um hotel 
+com hospede e funcionarios 
 #### 2.6.3 Diagrama de Classe do Exemplo
-
+![img.png](img.png)
